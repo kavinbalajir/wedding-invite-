@@ -107,13 +107,6 @@ export const site = {
   eventSchedule: [
     {
       id: 1,
-      time: '13 Sept · 5:00 – 6:00 PM',
-      title: 'Mappilai Alaipu',
-      description: 'Welcoming the groom and his family',
-      image: publicAsset('mappilai-azhaipu.png'),
-    },
-    {
-      id: 2,
       time: '13 Sept · 6:00 PM',
       title: 'Reception',
       description: '6:00 PM onwards — dinner & celebrations',
@@ -122,15 +115,8 @@ export const site = {
       calendarEventId: 'reception',
     },
     {
-      id: 3,
-      time: '15 Sept · 5:00 – 6:00 AM',
-      title: 'Kasi Yatrai',
-      description: 'A joyful traditional wedding ritual',
-      image: publicAsset('kasi-yatra.png'),
-    },
-    {
-      id: 4,
-      time: '13 Sept · 6:00 – 7:00 AM',
+      id: 2,
+      time: '14 Sept · 6:00 – 7:00 AM',
       title: 'Muhurtham',
       description: 'Auspicious wedding ceremony',
       /** Om — sacred symbol for the wedding ceremony (replaces generic chapel) */
